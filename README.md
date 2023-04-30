@@ -64,6 +64,49 @@
 
 # 1988035 이민학
 
+>### 1주차
+
+강의 소개 및 오리엔테이션
+
+>### 2주차
+
+팀 결성 및 계획서 작성
+
+>### 3주차
+
+| 1. 상점 열기, 아이템 구매 구현 |
+|:--:| 
+| ![image](https://user-images.githubusercontent.com/116986725/235339537-ff895bdf-cb7e-4235-9fae-266c99408cc5.png) |
+
+>### 4주차
+
+| 1. 상점UI , 아이템 판매 구현 |
+|:--:| 
+| ![Image](https://user-images.githubusercontent.com/116986725/235339630-def607f9-146b-434b-ac19-a2d4c782452f.png) |
+| ![Image](https://user-images.githubusercontent.com/116986725/235340009-491f34fa-75e2-4085-be78-4c7a317d32eb.png) |
+| ![Image](https://user-images.githubusercontent.com/116986725/235340010-dd5d239d-b40a-407d-995c-8573a728997a.png) |
+
+>### 5주차
+
+| 1. 아이템 구매시 인벤토리에 추가 구현 |
+|:--:| 
+| ![Image](https://user-images.githubusercontent.com/116986725/235340012-a0b3573b-36ad-4d7a-8900-43cb011e96b6.png) |
+
+
+>### 6주차
+
+| 1. 상점 물품 2개 추가 |
+| 2. 씨앗 구매시 씨앗 인벤토리로 이동 |
+| 3. 인벤토리 수량 확인 후 판매 기능 구현 |
+|:--:| 
+| ![Image](https://user-images.githubusercontent.com/116986725/235340017-513d0988-b6ae-420b-86c4-7e0aaabf2dd7.png) |
+
+>### 7주차
+
+| 1. 상점 아이템, 상점 Npc 추가 |
+|:--:| 
+| ![Image](https://user-images.githubusercontent.com/116986725/235340022-bc9a3051-5bfa-4bf2-b40b-8495296ed9a2.png) |
+
 # 1988035 염경진
 
 >### **1주차**
