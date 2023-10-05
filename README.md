@@ -306,8 +306,6 @@
 <img src="./img/공격패턴회피.png"><br>
 스테이지중엔 패턴이 있는 유닛,보스가 등장한다<br>
 
-- 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
 <br><br>
 
