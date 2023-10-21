@@ -385,23 +385,37 @@
 # [게임 시스템 디자인]
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|토끼|<img src="./img/축구장.png" width="500">|
-|2|오리|<img src="./img/골대.png" width="500">|
-|3|박쥐|<img src="./img/홍길동선수.png" height="300">|
-|5|붉은 악마|<img src="./img/골킵.png" height="300">|
-|6|붉은소|<img src="./img/골킵.png" height="300">|
-|7|수정|<img src="./img/골킵.png" height="300">|
-|8|npc|<img src="./img/골킵.png" height="300">|
-|9|펭귄타워|<img src="./img/골킵.png" height="300">|
-|10|갈매기 타워|<img src="./img/골킵.png" height="300">|
-|11|해달타워|<img src="./img/골킵.png" height="300">|
-|12|쥐 타워|<img src="./img/골킵.png" height="300">|
-|13|화염창|<img src="./img/골킵.png" height="300">|
-|14|화염 방어막|<img src="./img/골킵.png" height="300">|
-|15|불꽃찌르기|<img src="./img/골킵.png" height="300">|
-|16|화살비|<img src="./img/골킵.png" height="300">|
-|17|마그넷화살|<img src="./img/골킵.png" height="300">|
-|18|더블샷|<img src="./img/골킵.png" height="300">|
+|1|토끼|<img src="./img/토끼.png" width="500">|
+|2|오리|<img src="./img/오리.png" width="500">|
+|3|박쥐|<img src="./img/박쥐.png" height="300">|
+|5|붉은 악마|<img src="./img/붉은 악마.png" height="300">|
+|6|붉은소|<img src="./img/붉은소.png" height="300">|
+|7|수정|<img src="./img/수정.png" height="300">|
+|8|npc|<img src="./img/npc.png" height="300">|
+|9|펭귄타워|<img src="./img/펭귄타워.png" height="300">|
+|10|갈매기 타워|<img src="./img/갈매기 타워.png" height="300">|
+|11|해달타워|<img src="./img/해달타워.png" height="300">|
+|12|쥐 타워|<img src="./img/쥐 타워.png" height="300">|
+|13|화염창|<img src="./img/화염창.png" height="300">|
+|14|화염 방어막|<img src="./img/화염 방어막.png" height="300">|
+|15|불꽃찌르기|<img src="./img/불꽃찌르기.png" height="300">|
+|16|화살비|<img src="./img/화살비.png" height="300">|
+|17|마그넷화살|<img src="./img/마그넷화살.png" height="300">|
+|18|더블샷|<img src="./img/더블.png" height="300">|
+|19|인게임 체력 정보창|<img src="./img/인게임 체력 정보창.png" height="300">|
+|20|상점|<img src="./img/상.png" height="300">|
+|21|인벤토리|<img src="./img/인벤토리.png" height="300">|
+|22|내정보|<img src="./img/내정보.png" height="300">|
+|23|증강|<img src="./img/증.png" height="300">|
+|24|인게임 플레이어 정보창|<img src="./img/인게임 플레이어 정보창.png" height="300">|
+|25|공격력 강화|<img src="./img/공격력 강화.png" height="300">|
+|26|체력 흡수|<img src="./img/체력 흡수.png" height="300">|
+|27|메테오|<img src="./img/메테오.png" height="300">|
+|28|치명적인 속도|<img src="./img/치명적인 속도.png" height="300">|
+|29|이중 구르기|<img src="./img/이중 구르기.png" height="300">|
+|30|공격력치중|<img src="./img/공격력치중.png" height="300">|
+|31|공격속도 치중|<img src="./img/공격속도 치중.png" height="300">|
+|32|암살자|<img src="./img/암살자.png" height="300">|
 
 ##  파라미터
 |속성|영문명칭|설명|
