@@ -385,37 +385,37 @@
 # [게임 시스템 디자인]
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|토끼|<img src="./img/토끼.png" width="500">|
-|2|오리|<img src="./img/오리.png" width="500">|
-|3|박쥐|<img src="./img/박쥐.png" height="300">|
-|5|붉은 악마|<img src="./img/붉은 악마.png" height="300">|
-|6|붉은소|<img src="./img/붉은소.png" height="300">|
-|7|수정|<img src="./img/수정.png" height="300">|
-|8|npc|<img src="./img/npc.png" height="300">|
-|9|펭귄타워|<img src="./img/펭귄타워.png" height="300">|
-|10|갈매기 타워|<img src="./img/갈매기 타워.png" height="300">|
-|11|해달타워|<img src="./img/해달타워.png" height="300">|
-|12|쥐 타워|<img src="./img/쥐 타워.png" height="300">|
-|13|화염창|<img src="./img/화염창.png" height="300">|
-|14|화염 방어막|<img src="./img/화염 방어막.png" height="300">|
-|15|불꽃찌르기|<img src="./img/불꽃찌르기.png" height="300">|
-|16|화살비|<img src="./img/화살비.png" height="300">|
-|17|마그넷화살|<img src="./img/마그넷화살.png" height="300">|
-|18|더블샷|<img src="./img/더블.png" height="300">|
-|19|인게임 체력 정보창|<img src="./img/인게임 체력 정보창.png" height="300">|
-|20|상점|<img src="./img/상.png" height="300">|
-|21|인벤토리|<img src="./img/인벤토리.png" height="300">|
-|22|내정보|<img src="./img/내정보.png" height="300">|
-|23|증강|<img src="./img/증.png" height="300">|
-|24|인게임 플레이어 정보창|<img src="./img/인게임 플레이어 정보창.png" height="300">|
-|25|공격력 강화|<img src="./img/공격력 강화.png" height="300">|
+|1|토끼|<img src="./img/토끼.png" width="100">|
+|2|오리|<img src="./img/오리.png" width="100">|
+|3|박쥐|<img src="./img/박쥐.png" height="100">|
+|5|붉은 악마|<img src="./img/붉은악마.png" height="100">|
+|6|붉은소|<img src="./img/붉은소.png" height="100">|
+|7|수정|<img src="./img/수정.png" height="100">|
+|8|npc|<img src="./img/npc.png" height="100">|
+|9|펭귄타워|<img src="./img/펭귄타워.png" height="100">|
+|10|갈매기 타워|<img src="./img/갈매기타워.png" height="100">|
+|11|해달타워|<img src="./img/해달타워.png" height="100">|
+|12|쥐 타워|<img src="./img/쥐 타워.png" height="100">|
+|13|화염창|<img src="./img/화염창.png" height="100">|
+|14|화염 방어막|<img src="./img/화염방어막.png" height="100">|
+|15|불꽃찌르기|<img src="./img/불꽃찌르기.png" height="100">|
+|16|화살비|<img src="./img/화살비.png" height="100">|
+|17|마그넷화살|<img src="./img/마그넷화살.png" height="100">|
+|18|더블샷|<img src="./img/더블샷.png" height="100">|
+|19|인게임 체력 정보창|<img src="./img/인게임 체력 정보창.png" height="100">|
+|20|상점|<img src="./img/상점.png" height="100">|
+|21|인벤토리|<img src="./img/인벤토리.png" height="100">|
+|22|내정보|<img src="./img/내정보.png" height="100">|
+|23|증강|<img src="./img/증강.png" height="100">|
+|24|인게임 플레이어 정보창|<img src="./img/인게임 플레이어 정보창.png" height="100">|
+|25|공격력 강화|<img src="./img/공격력 강화.png" height="100">|
 |26|체력 흡수|<img src="./img/체력 흡수.png" height="300">|
 |27|메테오|<img src="./img/메테오.png" height="300">|
 |28|치명적인 속도|<img src="./img/치명적인 속도.png" height="300">|
-|29|이중 구르기|<img src="./img/이중 구르기.png" height="300">|
-|30|공격력치중|<img src="./img/공격력치중.png" height="300">|
-|31|공격속도 치중|<img src="./img/공격속도 치중.png" height="300">|
-|32|암살자|<img src="./img/암살자.png" height="300">|
+|29|이중 구르기|<img src="./img/이중 구르기.png" height="100">|
+|30|공격력치중|<img src="./img/공격력치중.png" height="100">|
+|31|공격속도 치중|<img src="./img/공격속도 치중.png" height="100">|
+|32|암살자|<img src="./img/암살자.png" height="100">|
 
 ##  파라미터
 |속성|영문명칭|설명|
@@ -550,13 +550,47 @@ Attack_Delay>CulDelay
 일단은 크리스탈을 향해 간다
 가다가 유닛 또는 공격가능한 오브젝트가 있다면 해당 오브젝트를 공격한다
 
+8. 개발 요구사항 & 흐름도
+
+8.1. 요구사항
+
+*게임을 시작하면 시작 배경과 게임시작이 있다
+*게임시작 버튼을 누르면 게임이 시작된다
+-인게임
+*UI는 중앙아래 부분에는 선택된 캐릭터의 이미지,체력,마나를 볼수있는 UI가 있다
 
 
+*스테이지시작버튼을 누르면 적들이 몰려온다
+
+*조작
+-우클릭을 누르면 선택된 유닛이 클릭된 위치로 이동을한다 도착할 위치에는 따로 표시를 해준다
+-적이 가까히 오거나 a키 조작으로 공격가능한 범위에 있으면 공격을 한다
+-회피 스킬을 획득했을 경우 F키를 누르면 회피스킬을 사용할수있고 해당 스킬은 쿨타임을 가진다
+-q,w,e로 스킬을 사용할수있다 스킬 사용범위를 넘어가면 스킬은 사용이 취소가 된다
 
 
+*모든 적을 다 잡으면 스테이지 클리어로 일정한 돈을 플레이어에게 지급한다
+*스테이지 클리어시 증강을 선택할 수있고 증강은 3가지가 나온다
+*스테이지 클리어시 Npc가 생성이 된다
+-npc를 누르면 내정보,밭,상점이 표시가 된다
+
+내정보는 유닛을 선택할수있는 창이 나온다
+유닛을 선택하면 유닛의 정보가 나온다
+
+밭을 누르면 밭이 나오고 현제 심어저있는 작물들이 나온다
+
+상점을 누르면 스킬,작물을 구매할수있다
+스킬들은 스테이지 클리어시 랜덤으로 나온다
+
+*조종가능한 유닛이 모두 죽으면 게임은 끝나게 된다
+*게임 종료시에는 버텨낸 스테이지의 단계를 알려준다
 
 
+8.2. 시간별 흐름도 flowchart
+<img src="./img/플로우차트.png " height="500"><br><br>
 
+8.3. 키보드 이벤트에 대한 흐름도
+<img src="./img/키보드차트.png" height="500"><br><br>
     
 
 
