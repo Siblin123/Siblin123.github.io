@@ -586,10 +586,10 @@ Attack_Delay>CulDelay
 *게임 종료시에는 버텨낸 스테이지의 단계를 알려준다
 
 
-8.2. 시간별 흐름도 flowchart
+8.2. 시간별 흐름도 flowchart <br>
 <img src="./img/플로우차트.png " height="500"><br><br>
 
-8.3. 키보드 이벤트에 대한 흐름도
+8.3. 키보드 이벤트에 대한 흐름도 <br>
 <img src="./img/키보드차트.png" height="500"><br><br>
     
 
