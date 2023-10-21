@@ -385,37 +385,37 @@
 # [게임 시스템 디자인]
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|토끼|<img src="./img/토끼.png" width="100">|
-|2|오리|<img src="./img/오리.png" width="100">|
-|3|박쥐|<img src="./img/박쥐.png" height="100">|
-|5|붉은 악마|<img src="./img/붉은악마.png" height="100">|
-|6|붉은소|<img src="./img/붉은소.png" height="100">|
-|7|수정|<img src="./img/수정.png" height="100">|
-|8|npc|<img src="./img/npc.png" height="100">|
-|9|펭귄타워|<img src="./img/펭귄타워.png" height="100">|
-|10|갈매기 타워|<img src="./img/갈매기타워.png" height="100">|
-|11|해달타워|<img src="./img/해달타워.png" height="100">|
-|12|쥐 타워|<img src="./img/쥐 타워.png" height="100">|
-|13|화염창|<img src="./img/화염창.png" height="100">|
-|14|화염 방어막|<img src="./img/화염방어막.png" height="100">|
-|15|불꽃찌르기|<img src="./img/불꽃찌르기.png" height="100">|
-|16|화살비|<img src="./img/화살비.png" height="100">|
-|17|마그넷화살|<img src="./img/마그넷화살.png" height="100">|
-|18|더블샷|<img src="./img/더블샷.png" height="100">|
-|19|인게임 체력 정보창|<img src="./img/인게임 체력 정보창.png" height="100">|
-|20|상점|<img src="./img/상점.png" height="100">|
-|21|인벤토리|<img src="./img/인벤토리.png" height="100">|
-|22|내정보|<img src="./img/내정보.png" height="100">|
-|23|증강|<img src="./img/증강.png" height="100">|
-|24|인게임 플레이어 정보창|<img src="./img/인게임 플레이어 정보창.png" height="100">|
-|25|공격력 강화|<img src="./img/공격력 강화.png" height="100">|
-|26|체력 흡수|<img src="./img/체력 흡수.png" height="300">|
-|27|메테오|<img src="./img/메테오.png" height="300">|
-|28|치명적인 속도|<img src="./img/치명적인 속도.png" height="300">|
-|29|이중 구르기|<img src="./img/이중 구르기.png" height="100">|
-|30|공격력치중|<img src="./img/공격력치중.png" height="100">|
-|31|공격속도 치중|<img src="./img/공격속도 치중.png" height="100">|
-|32|암살자|<img src="./img/암살자.png" height="100">|
+|1|토끼|<img src="./img/토끼.png" width="50">|
+|2|오리|<img src="./img/오리.png" width="50">|
+|3|박쥐|<img src="./img/박쥐.png" height="50">|
+|5|붉은 악마|<img src="./img/붉은악마.png" height="50">|
+|6|붉은소|<img src="./img/붉은소.png" height="50">|
+|7|수정|<img src="./img/수정.png" height="50">|
+|8|npc|<img src="./img/npc.png" height="50">|
+|9|펭귄타워|<img src="./img/펭귄타워.png" height="50">|
+|10|갈매기 타워|<img src="./img/갈매기타워.png" height="50">|
+|11|해달타워|<img src="./img/해달타워.png" height="50">|
+|12|쥐 타워|<img src="./img/쥐 타워.png" height="50">|
+|13|화염창|<img src="./img/화염창.png" height="50">|
+|14|화염 방어막|<img src="./img/화염방어막.png" height="50">|
+|15|불꽃찌르기|<img src="./img/불꽃찌르기.png" height="50">|
+|16|화살비|<img src="./img/화살비.png" height="50">|
+|17|마그넷화살|<img src="./img/마그넷화살.png" height="50">|
+|18|더블샷|<img src="./img/더블샷.png" height="50">|
+|19|인게임 체력 정보창|<img src="./img/인게임 체력 정보창.png" height="50">|
+|20|상점|<img src="./img/상점.png" height="50">|
+|21|인벤토리|<img src="./img/인벤토리.png" height="50">|
+|22|내정보|<img src="./img/내정보.png" height="50">|
+|23|증강|<img src="./img/증강.png" height="50">|
+|24|인게임 플레이어 정보창|<img src="./img/인게임 플레이어 정보창.png" height="50">|
+|25|공격력 강화|<img src="./img/공격력 강화.png" height="50">|
+|26|체력 흡수|<img src="./img/체력 흡수.png" height="50">|
+|27|메테오|<img src="./img/메테오.png" height="50">|
+|28|치명적인 속도|<img src="./img/치명적인 속도.png" height="50">|
+|29|이중 구르기|<img src="./img/이중 구르기.png" height="50">|
+|30|공격력치중|<img src="./img/공격력치중.png" height="50">|
+|31|공격속도 치중|<img src="./img/공격속도 치중.png" height="50">|
+|32|암살자|<img src="./img/암살자.png" height="50">|
 
 ##  파라미터
 |속성|영문명칭|설명|
