@@ -383,6 +383,30 @@
 
 
 # [게임 시스템 디자인]
+
+|연번|종류|OBJ 이름|OBJ 영문명|사용처|오브젝트 이미지|  
+|:----:|:----:|:----:|:----:|:----:|:----:|  
+|1|아이템|토마토 씨앗|Tomato Seed|플레이어 집|<img src="./img/토마토 씨앗이미지.png" width="100">|  
+|2|아이템|옥수수 씨앗|Corn Seed|플레이어 집|<img src="./img/옥수수 씨앗.png" width="100">|  
+|3|아이템|호박 씨앗|Pumpkin Seed|플레이어 집|<img src="./img/토마토 씨앗.png" width="100">|  
+|4|아이템|순무 씨앗|Turnip Seed|플레이어 집|<img src="./img/순무 씨앗이미지.png" width="100">|  
+|5|아이템|당근 씨앗|Carrot Seed|플레이어 집|<img src="./img/당근 씨앗이미.png" width="100">|  
+|6|풀|잡초|Weed|플레이어 집|<img src="./img/잡초.png" width="100">|  
+|7|나무|나무|Tree|플레이어 집|<img src="./img/나무.png" width="100">|  
+|8|돌|돌|Rock|플레이어 집|<img src="./img/돌.png" width="100">|  
+|9|동물|닭|Chicken|플레이어 집|<img src="./img/닭.png" width="100">|  
+|10|농사|밭|Field|플레이어 집|<img src="./img/밭.png" width="100">|  
+|11|아이템|토마토|Tomato|공통|<img src="./img/토마토.png" width="100">|  
+|12|아이템|옥수수|Corn|공통|<img src="./img/옥수수.png" width="100">|  
+|13|아이템|호박|Pumpkin|공통|<img src="./img/호박.png" width="100">|  
+|14|아이템|순무|turnip|공통|<img src="./img/무.png" width="100">|  
+|15|아이템|당근|Carro|공통|<img src="./img/당근.png" width="100">|  
+|16|아이템|사과|Apple|숲|<img src="./img/사과열매.png" width="100">|  
+|17|나무|사과 나무|Apple Tree|숲|<img src="./img/사과나무.png" width="100">|  
+|18|Npc|미나|Mina|마을|<img src="./img/미나.png" width="100">|  
+|19|Npc|카타리나|Katarina|마을|<img src="./img/카타리나.png" width="100">|  
+|20|Npc|샨|Shan|마을|<img src="./img/샨.png" width="100">|
+
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|토끼|<img src="./img/토끼.png" width="50">|<br>
@@ -416,6 +440,9 @@
 |30|공격력치중|<img src="./img/공격력치중.png" height="50">|<br>
 |31|공격속도 치중|<img src="./img/공격속도 치중.png" height="50">|<br>
 |32|암살자|<img src="./img/암살자.png" height="50">|<br>
+
+
+
 
 ##  파라미터
 |속성|영문명칭|설명|
