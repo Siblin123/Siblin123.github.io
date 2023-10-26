@@ -613,8 +613,8 @@ Attack_Delay>CulDelay
 
 9.스토리 보드
 
-|<img src="./img/토끼.png" width="50">|<img src="./img/토끼.png" width="50">|<img src="./img/토끼.png" width="50">|<img src="./img/토끼.png" width="50">|
+|<img src="./img/스토리1.png" width="100">|<img src="./img/스토리2.png" width="100">|<img src="./img/스토리3.png" width="100">|<img src="./img/스토리4.png" width="100">|
 |:----:|:----:|:----:|:----:|
 |시네마 이벤트<br>왜인지 모르겠지만 어렸을때부터 지키고 있는 수정을 보여준다|인게임<br> 수정을 공격해오는 적을 물리친다|시네마 이벤트<br> 하루하루 적과 싸우다가 잠에 드는 모습을 보여준다|시네마 이벤트<br> 꿈속에서 한 악마와 전투를 하는 꿈을 꾼다|
-|<img src="./img/토끼.png" width="50">|<img src="./img/토끼.png" width="50">|<img src="./img/토끼.png" width="50">|
+|<img src="./img/스토리5.png" width="100">|<img src="./img/스토리6.png" width="100">|<img src="./img/스토리7.png" width="100">|
 |인게임<br> 꿈에서 깨고 계속 몰려오는 적들을 잡는다|시네마 이벤트<br> 적들이 빈사에 빠질때쯤 수정이 빛이 나면서 깨지기 시작한다|시네마 이벤트<br> 수정안에는 꿈에서 봤던 악마가 있었고 쓰러져있던 적은 꿈속에서 봤던 동료들이였다|
