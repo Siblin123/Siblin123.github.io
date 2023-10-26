@@ -612,8 +612,8 @@ Attack_Delay>CulDelay
     
 8.4. 용어정리
 
-<img src="./img/용어정리1.png" height="500"><br><br>
-<img src="./img/용어정리2.png" height="500"><br><br>
+<img src="./img/용어정리1.png" width="500"><br><br>
+<img src="./img/용어정리2.png" width="500"><br><br>
 
 9.스토리 보드
 
