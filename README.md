@@ -610,6 +610,10 @@ Attack_Delay>CulDelay
 8.3. 키보드 이벤트에 대한 흐름도 <br>
 <img src="./img/키보드차트.png" height="500"><br><br>
     
+8.4. 용어정리
+
+<img src="./img/용어정리1.png" height="500"><br><br>
+<img src="./img/용어정리2.png" height="500"><br><br>
 
 9.스토리 보드
 
