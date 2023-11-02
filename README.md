@@ -590,7 +590,7 @@ Attack_Delay>CulDelay
 일단은 크리스탈을 향해 간다
 가다가 유닛 또는 공격가능한 오브젝트가 있다면 해당 오브젝트를 공격한다
 
-##8. 개발 요구사항 & 흐름도 <a name=''></a=7>
+##8. 개발 요구사항 & 흐름도
 
 8.1. 요구사항 <a name='66'></a>
 
@@ -631,7 +631,7 @@ Attack_Delay>CulDelay
 5.2 게임 종료시에는 버텨낸 스테이지의 단계를 알려준다<br><br>
 
 
-8.2. 시간별 흐름도 flowchart <br>
+8.2. 시간별 흐름도 flowchart <a name='7'></a>  <br> 
 <img src="./img/플로우차트.png " height="500"><br><br>
 
 8.3. 키보드 이벤트에 대한 흐름도 <br>
